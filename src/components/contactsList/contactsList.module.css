@@ -31,7 +31,7 @@
 
   font-size: 15px;
 
-  color: rgb(16, 3, 63);
+  color: rgb(16, 2, 63);
   background-color: rgb(209, 205, 205);
   border-radius: 5px;
 }
@@ -39,5 +39,5 @@
 .btn:hover,
 .btn:focus {
   color: rgb(242, 244, 247);
-  background-color: rgb(228, 38, 13);
+  background-color: rgb(229, 38, 13);
 }
